@@ -16,11 +16,12 @@
 
 ## About Me
 
-I'm a Data Science student with a background in Data Engineering. I'm interested in exploring data, discovering patterns, and developing data-driven solutions.
+I'm a Data Science student with a background in Data Engineering, interested in analyzing data, discovering patterns, and developing data-driven solutions.
 
-- Currently pursuing a Bachelor's degree in Data Science at EST Kelaa des Sraghna.
+- Currently pursuing a Bachelor's degree in Data Science at EST Kelaa des Sraghna, Morocco.
 - Previously completed a DUT in Data Engineering.
-- Building my knowledge in data analysis, machine learning, and data management.
+- Interested in data technologies, intelligent systems, and software development.
+- Continuously developing my technical skills and exploring new technologies.
 
 ## Areas of Interest
 
@@ -29,82 +30,76 @@ I'm a Data Science student with a background in Data Engineering. I'm interested
 <table>
 <tr>
 <td align="center" width="33%">
-<br/>
-<strong>Big Data</strong>
+<strong>Big Data & Data Engineering</strong>
 <br/><br/>
-Processing and managing large datasets
-<br/><br/>
+Processing, managing, and organizing data
 </td>
 <td align="center" width="33%">
-<br/>
-<strong>Data Mining</strong>
+<strong>Machine Learning & AI</strong>
 <br/><br/>
-Discovering patterns and useful insights
-<br/><br/>
+Predictive models and intelligent systems
 </td>
 <td align="center" width="33%">
-<br/>
-<strong>Machine Learning</strong>
+<strong>Data Visualization & BI</strong>
 <br/><br/>
-Learning from data and building predictive models
-<br/><br/>
+Dashboards and data-driven decisions
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>
-<strong>Artificial Intelligence</strong>
+<strong>Internet of Things (IoT)</strong>
 <br/><br/>
-Exploring intelligent data-driven systems
-<br/><br/>
+Connected devices and data collection
 </td>
 <td align="center">
-<br/>
-<strong>Data Engineering</strong>
+<strong>Cloud Computing</strong>
 <br/><br/>
-Preparing and organizing data
-<br/><br/>
+Cloud services and application deployment
 </td>
 <td align="center">
-<br/>
-<strong>Business Intelligence</strong>
+<strong>Software Development</strong>
 <br/><br/>
-Visualizing data to support decisions
-<br/><br/>
+Building applications and solving problems
 </td>
 </tr>
 </table>
 
 </div>
 
-## Tech Stack
+## Technologies & Tools
 
-**Main Language & Databases**
+**Programming**
 
 <div>
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github" alt="Python, MySQL, PostgreSQL, Git and GitHub"/>
+  <img src="https://skillicons.dev/icons?i=python,git,github" alt="Python, Git and GitHub"/>
 </div>
 
-**Data Visualization**
+**Databases & Business Intelligence**
 
 <div>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="MySQL and PostgreSQL"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 </div>
 
-## Learning Journey
+**Big Data**
 
-I'm continuously strengthening my foundations in Data Science, statistics, data processing, and analytical thinking.
+<div>
+  <img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Apache Hadoop"/>
+</div>
+
+**Tools & Infrastructure**
+
+<div>
+  <img src="https://skillicons.dev/icons?i=docker,linux" alt="Docker and Linux"/>
+</div>
+
+## Learning Focus
+
+Strengthening my foundations in Data Science and Big Data while exploring IoT and Cloud Computing, and improving my skills in application deployment with Docker.
 
 <div align="center">
 
-**Data → Knowledge → Insights**
+**Data · Technology · Continuous Learning**
 
 </div>
 
----
-
-<div align="center">
-
-*Curiosity drives learning. Data inspires discovery.*
-
-</div>
