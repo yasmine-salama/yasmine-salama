@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 # YASMINE SALAMA
@@ -113,4 +113,4 @@ I'm focused on building strong fundamentals, understanding the concepts behind t
 ### Curious about data. Committed to learning. Ready to grow.
 
 </div>
-```
+
