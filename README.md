@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Yasmine Salama — Data Science Student" width="100%"/>
+<img src="./assets/hero.svg" alt="Yasmine Salama" width="100%">
 
 <br/>
 
