@@ -74,6 +74,14 @@ Building applications and solving problems
   <img src="https://skillicons.dev/icons?i=python,git,github" alt="Python, Git and GitHub"/>
 </div>
 
+**Data Analysis & Machine Learning**
+
+<div>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+</div>
+
 **Databases & Business Intelligence**
 
 <div>
@@ -87,10 +95,17 @@ Building applications and solving problems
   <img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Apache Hadoop"/>
 </div>
 
+**Data Visualization**
+
+<div>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+</div>
+
 **Tools & Infrastructure**
 
 <div>
-  <img src="https://skillicons.dev/icons?i=docker,linux" alt="Docker and Linux"/>
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker"/>
 </div>
 
 ## Learning Focus
