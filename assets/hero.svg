@@ -1,1 +1,37 @@
-
+<svg width="1200" height="330" viewBox="0 0 1200 330" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#090B1A"/>
+      <stop offset="0.55" stop-color="#17102F"/>
+      <stop offset="1" stop-color="#071C2C"/>
+    </linearGradient>
+    <linearGradient id="line" x1="80" y1="60" x2="1110" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A78BFA"/>
+      <stop offset="0.55" stop-color="#67E8F9"/>
+      <stop offset="1" stop-color="#C4B5FD"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="matrix(330 0 0 220 920 80)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#9CA3AF" stroke-opacity=".09" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="330" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="330" rx="24" fill="url(#grid)"/>
+  <rect width="1200" height="330" rx="24" fill="url(#glow)"/>
+  <circle cx="1035" cy="165" r="112" stroke="#67E8F9" stroke-opacity=".25"/>
+  <circle cx="1035" cy="165" r="82" stroke="#A78BFA" stroke-opacity=".35"/>
+  <circle cx="1035" cy="165" r="52" stroke="#67E8F9" stroke-opacity=".5"/>
+  <path d="M930 165H1140M1035 60V270" stroke="url(#line)" stroke-opacity=".35"/>
+  <circle cx="1035" cy="165" r="7" fill="#67E8F9"/>
+  <path d="M80 252H180L202 230H260" stroke="url(#line)" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="80" cy="252" r="4" fill="#A78BFA"/>
+  <text x="80" y="83" fill="#67E8F9" font-family="monospace" font-size="15" letter-spacing="4">DATA • CODE • CURIOSITY</text>
+  <text x="76" y="155" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700">Yasmine Salama</text>
+  <text x="80" y="197" fill="#D8D5F3" font-family="Arial, Helvetica, sans-serif" font-size="23">Data Science Student</text>
+  <text x="80" y="226" fill="#A5B4FC" font-family="monospace" font-size="16">Turning data into useful insights.</text>
+  <rect x="80" y="278" width="146" height="28" rx="14" fill="#8B5CF6" fill-opacity=".18" stroke="#A78BFA" stroke-opacity=".65"/>
+  <text x="153" y="296" fill="#DDD6FE" font-family="monospace" font-size="12" text-anchor="middle">LEARN • BUILD • GROW</text>
+</svg>
