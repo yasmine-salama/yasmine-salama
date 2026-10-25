@@ -1,88 +1,116 @@
+```markdown
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yasmine-salama/yasmine-salama/main/assets/hero.svg" alt="Yasmine Salama" width="100%">
+# YASMINE SALAMA
 
-<br/>
+### DATA SCIENCE STUDENT | DATA ENGINEERING
 
-<a href="https://www.linkedin.com/in/salama-yasmine"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/yasmine-salama"><img src="https://img.shields.io/badge/GitHub-Explore_my_work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+**Exploring data. Discovering patterns. Building knowledge.**
+
+[LinkedIn](https://www.linkedin.com/in/salama-yasmine) • [GitHub](https://github.com/yasmine-salama)
 
 </div>
 
 ---
 
-## `01 / A little about me`
+## 🧬 About Me
 
-Hi, I'm **Yasmine** — a Data Science student at **EST Kelaa des Sraghna, Morocco**.
+I'm a Data Science student with a background in **Data Engineering**, interested in transforming raw data into meaningful insights.
 
-I completed a DUT in **Data Engineering** and I'm now pursuing a Bachelor's degree in **Data Science**. I'm interested in the journey from raw data to meaningful insights: exploring datasets, building analytical solutions, and learning how machine learning can help solve real problems.
+🎓 Currently pursuing a Bachelor's degree in Data Science at EST Kelaa des Sraghna, Morocco.
 
-- 🎓 **Currently:** Bachelor's in Data Science
-- 🔎 **Exploring:** Data analysis, machine learning, and data visualization
-- 🧩 **My approach:** Learn the fundamentals, build projects, improve through practice
+📚 Previously completed a DUT in Data Engineering.
 
-## `02 / My toolkit`
+🔎 Interested in the full data lifecycle — from data collection and storage to analysis, machine learning, and visualization.
 
-<div align="center">
+🌱 Currently strengthening my technical foundations through coursework, practice, and continuous learning.
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=111111" alt="Power BI"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript"/>
+---
 
-</div>
-
-**Areas I'm building experience in:** data cleaning · exploratory data analysis · data visualization · data warehousing · machine learning · NLP
-
-## `03 / Projects & practice`
+## 🔬 Areas of Interest
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ◈ DevScope
-**Developer profile analytics**
+### 🏗️ Big Data
+Exploring large-scale data processing, distributed systems, and the challenges of handling massive datasets.
 
-A project concept focused on collecting and analyzing developer-profile data, exploring technologies and activity, and presenting findings through a dashboard.
+### ⛏️ Data Mining
+Discovering hidden patterns, relationships, and useful knowledge from data.
 
-`Data collection` `Analytics` `Visualization`
+### 🤖 Machine Learning & AI
+Learning algorithms and intelligent techniques for prediction, classification, and data-driven problem-solving.
 
 </td>
 <td width="50%" valign="top">
 
-### ◈ Sentiment Analysis
-**Text classification with machine learning**
+### 🐍 Python & Data Analysis
+Using Python to manipulate, explore, clean, and analyze data.
 
-An academic project exploring sentiment classification using text preprocessing, TF-IDF features, machine-learning models, and a Flask API.
+### 🗄️ SQL & Data Warehouse
+Understanding relational databases, data organization, analytical storage, and querying.
 
-`Python` `NLTK` `TF-IDF` `Flask`
+### 📊 Data Visualization & BI
+Communicating insights through charts, dashboards, and tools such as Power BI.
 
 </td>
 </tr>
 </table>
 
-> Project links will be added when the repositories are published publicly.
+---
 
-## `04 / What I'm working toward`
+## 🛠️ Technologies & Tools
 
-- Strengthening my foundations in statistics, Python, and machine learning.
-- Turning coursework into clear, well-documented projects.
-- Growing as a data professional through consistent practice.
+**Programming & Databases**
 
-## `05 / Find me`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-Want to connect or exchange ideas about data? Reach me on **[LinkedIn](https://www.linkedin.com/in/salama-yasmine)**.
+**Data Analysis & Machine Learning**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+**Data Visualization & Business Intelligence**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+
+**Development & Version Control**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## 🧭 My Learning Path
+
+```text
+Python & SQL
+     ↓
+Data Collection & Preparation
+     ↓
+Data Analysis & Data Mining
+     ↓
+Machine Learning & AI
+     ↓
+Data Visualization & Business Intelligence
+     ↓
+Big Data & Data Engineering
+```
+
+I'm focused on building strong fundamentals, understanding the concepts behind the tools, and gradually applying what I learn to practical problems.
+
+---
 
 <div align="center">
 
-<sub><i>Curious by nature. Building one dataset at a time.</i></sub>
+### Curious about data. Committed to learning. Ready to grow.
 
 </div>
+```
