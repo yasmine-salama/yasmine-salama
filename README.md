@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Yasmine Salama" width="100%">
+<img src="https://raw.githubusercontent.com/yasmine-salama/yasmine-salama/main/assets/hero.svg" alt="Yasmine Salama" width="100%">
 
 <br/>
 
