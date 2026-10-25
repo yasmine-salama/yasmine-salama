@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="assets/hero.png" width="100%" alt="Yasmine Salama — Data Science"/>
+<img src="assets/yasmine.svg" width="100%" alt="Yasmine Salama — Data Science"/>
 
 <a href="https://www.linkedin.com/in/salama-yasmine">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
